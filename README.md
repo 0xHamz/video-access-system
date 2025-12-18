@@ -48,12 +48,13 @@ DB_PASSWORD=
 php artisan serve
 ```
 
-6. Uji Cobat di Lokal
+6. Uji Coba di Lokal
+- Buka http://127.0.0.1:8000 / localhost
 - Admin & Customer Login
 ```bash
 | User Level | Email                | Password    |
 | ----------- | ------------------- | ----------- |
-| Admin       | admin@example.com   | 121212 |
+| Admin       | admin@gmail.com   | 121212 |
 | Customer 1  | customer1@gmail.com | 121212 |
 | Customer 2  | customer2@gmail.com | 121212 |
 ```
