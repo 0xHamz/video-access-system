@@ -17,7 +17,7 @@ Fitur utama:
 1. Clone repository:
 
 ```bash
-git clone https://github.com/username/video-access-system.git
+git clone https://github.com/0xHamz/video-access-system.git
 cd video-access-system
 ```
 
@@ -46,4 +46,14 @@ DB_PASSWORD=
 5. Jalankan server lokal:
 ```bash
 php artisan serve
+```
+
+6. Uji Cobat di Lokal
+- Admin & Customer Login
+```bash
+| User Level | Email                | Password    |
+| ----------- | ------------------- | ----------- |
+| Admin       | admin@example.com   | 121212 |
+| Customer 1  | customer1@gmail.com | 121212 |
+| Customer 2  | customer2@gmail.com | 121212 |
 ```
