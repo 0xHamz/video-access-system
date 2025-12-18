@@ -49,6 +49,8 @@ php artisan serve
 ```
 
 6. Uji Coba di Lokal
+- Buka http://localhost/phpmyadmin buat DB dengan nama : laravel_role_auth
+- Import file sql yang sudah ada di github : laravel_role_auth.sql
 - Buka http://127.0.0.1:8000 / localhost
 - Admin & Customer Login
 ```bash
