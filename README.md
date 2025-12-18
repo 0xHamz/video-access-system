@@ -1,14 +1,3 @@
-<p align="center">
-  <a href="https://github.com/username/video-access-system" target="_blank">
-    <img src="https://via.placeholder.com/150x150.png?text=Logo" width="150" alt="Project Logo">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/username/video-access-system/actions"><img src="https://img.shields.io/github/workflow/status/username/video-access-system/CI" alt="Build Status"></a>
-  <a href="https://github.com/username/video-access-system"><img src="https://img.shields.io/github/issues/username/video-access-system" alt="Issues"></a>
-  <a href="https://github.com/username/video-access-system"><img src="https://img.shields.io/github/license/username/video-access-system" alt="License"></a>
-</p>
 
 # Video Access System (Laravel 12)
 
