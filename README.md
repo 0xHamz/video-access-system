@@ -17,31 +17,9 @@ Fitur utama:
 
 - 2 level user: **Admin** dan **Customer**  
 - Admin dapat CRUD data customer & video  
-- Admin memberi akses customer menonton video dengan durasi tertentu  
+- Admin memberi akses customer menonton video   
 - Customer dapat request akses video dan menonton sesuai izin  
 - Notifikasi request realtime di panel admin  
-
----
-
-## 📂 Struktur Repository
-app/
-Http/
-Controllers/
-Admin/
-Customer/
-Models/
-database/
-migrations/
-seeders/
-dumps/ <- file SQL database
-resources/
-views/
-admin/
-customer/
-routes/
-.env.example
-README.md
-
 
 ---
 
