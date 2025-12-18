@@ -52,9 +52,9 @@ php artisan serve
 - Buka http://127.0.0.1:8000 / localhost
 - Admin & Customer Login
 ```bash
-| User Level | Email                | Password    |
+| User Level  | Email               | Password    |
 | ----------- | ------------------- | ----------- |
-| Admin       | admin@gmail.com   | 121212 |
+| Admin       | admin@gmail.com     | 121212 |
 | Customer 1  | customer1@gmail.com | 121212 |
 | Customer 2  | customer2@gmail.com | 121212 |
 ```
